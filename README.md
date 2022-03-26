@@ -14,3 +14,6 @@ steps involved are -
 4- Double thresholding for segmenting strong & weak edge.
 5- edge tracking by hystersis.
  
+### Result
+![aleo_result](https://user-images.githubusercontent.com/85456244/160239360-c8c0b5dd-c5aa-4fb7-a80c-6589204cedd9.JPG)
+
