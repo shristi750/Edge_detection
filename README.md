@@ -16,4 +16,5 @@ steps involved are -
  
 ### Result
 ![aleo_result](https://user-images.githubusercontent.com/85456244/160239360-c8c0b5dd-c5aa-4fb7-a80c-6589204cedd9.JPG)
+![path_result](https://user-images.githubusercontent.com/85456244/160239595-9db21c37-601b-4abf-a6b5-a10193677960.JPG)
 
